@@ -1,1 +1,3 @@
 # Simple Python calculator
+
+This Python program is designed to perform basic mathematical operations based on user input. It prompts users to enter two numbers and select an operation from addition, subtraction, multiplication, or division. The program then executes the chosen operation and displays the result in a clear format, including the operation name and the calculation performed. It also includes error handling for division by zero, ensuring robustness and user-friendly interaction. The code is structured into functions for getting user input, performing operations, and formatting output, making it easy to understand and modify for further enhancements.
